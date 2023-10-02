@@ -9,4 +9,5 @@
  |ls|Esse comando lista arquivos e pastas no local||
  |cd| Esse comando tem algumas funções dependendo de como é usado, pode ser para retornar para diretório original ou para acessar um diretorio| Exemplo: cd desktop|
  |git init| inicia um branch||
- 
+ |git add --all| adiciona no branch as alterações|Preceisa ser feito depois de toda alteração|
+ |git commit -m "nome do commit"|estabele um commit||
