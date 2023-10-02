@@ -1,9 +1,8 @@
-**COMANDOS GIT E GITHUB**
-'''
-cd
-ls
-mkdir
-git init
-git status
+# COMANDOS GIT
+## 📚 Documentação
+ - [Documentação GIT](https://git-scm.com/doc)
 
-'''
+ ## Comandos
+ |Nome do Comando| Descrição| Observações|
+ |---------------|-----------|------------|
+ 
