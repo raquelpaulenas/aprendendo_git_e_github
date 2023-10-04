@@ -12,4 +12,4 @@
  |git add --all| adiciona no branch as alterações|Preceisa ser feito depois de toda alteração|
  |git commit -m "nome do commit"|estabele um commit||
 
- Teste de novo comando
+
